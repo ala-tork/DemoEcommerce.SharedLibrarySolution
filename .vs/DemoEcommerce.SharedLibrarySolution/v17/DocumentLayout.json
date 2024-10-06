@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Work_Space\\.net_Tuto\\2024\\DemoEcommerce.SharedLibrarySolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECBC9956-9380-4EC9-A994-F03103EBFAB4}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|d:\\work_space\\.net_tuto\\2024\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECBC9956-9380-4EC9-A994-F03103EBFAB4}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ECBC9956-9380-4EC9-A994-F03103EBFAB4}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|d:\\work_space\\.net_tuto\\2024\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\dependencyinjection\\jwtaythenticationscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECBC9956-9380-4EC9-A994-F03103EBFAB4}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\dependencyinjection\\jwtaythenticationscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,24 +30,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SharedServiceContainer.cs",
-              "DocumentMoniker": "D:\\Work_Space\\.net_Tuto\\2024\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "ToolTip": "D:\\Work_Space\\.net_Tuto\\2024\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "RelativeToolTip": "eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T20:39:46.209Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "JWTAythenticationScheme.cs",
               "DocumentMoniker": "D:\\Work_Space\\.net_Tuto\\2024\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\JWTAythenticationScheme.cs",
               "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\DependencyInjection\\JWTAythenticationScheme.cs",
@@ -64,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ListenToOnlyApiGateway.cs",
               "DocumentMoniker": "D:\\Work_Space\\.net_Tuto\\2024\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
               "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
@@ -72,12 +67,11 @@
               "RelativeToolTip": "eCommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T20:23:26.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T20:23:26.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GlobalException.cs",
               "DocumentMoniker": "D:\\Work_Space\\.net_Tuto\\2024\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Middleware\\GlobalException.cs",
               "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\Middleware\\GlobalException.cs",
@@ -85,12 +79,11 @@
               "RelativeToolTip": "eCommerce.SharedLibrary\\Middleware\\GlobalException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T20:01:46.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T20:01:46.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IGenericIterface.cs",
               "DocumentMoniker": "D:\\Work_Space\\.net_Tuto\\2024\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Interface\\IGenericIterface.cs",
               "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\Interface\\IGenericIterface.cs",
@@ -98,12 +91,11 @@
               "RelativeToolTip": "eCommerce.SharedLibrary\\Interface\\IGenericIterface.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T19:56:04.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T19:56:04.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Response.cs",
               "DocumentMoniker": "D:\\Work_Space\\.net_Tuto\\2024\\DemoEcommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Response\\Response.cs",
               "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\Response\\Response.cs",
@@ -111,20 +103,7 @@
               "RelativeToolTip": "eCommerce.SharedLibrary\\Response\\Response.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T19:55:53.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "WhenOpened": "2024-10-05T19:55:53.484Z"
             }
           ]
         }
